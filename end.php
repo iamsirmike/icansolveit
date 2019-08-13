@@ -28,8 +28,8 @@
             Save
           </button>
         </form>
-        <a class="btn" href="game.html">Play Again</a>
-        <a class="btn" href="index.hmtl">Go Home</a>
+        <a class="btn" href="game.php">Play Again</a>
+        <a class="btn" href="index.php">Go Home</a>
       </div>
     </div>
     <script src="end.js"></script>
