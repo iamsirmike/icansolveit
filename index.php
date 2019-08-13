@@ -10,7 +10,7 @@
   <body>
     <div class="container">
       <div id="home" class="flex-center flex-column">
-        <h1>What do you know?</h1>
+        <h1>myIQ</h1>
         <a class="btn" href="game.php">Play</a>
         <a class="btn" href="highscores.php">High Scores</a>
       </div>
