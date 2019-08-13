@@ -3,7 +3,7 @@
 	"name": "myIQ",
 	"scope": "/",
 	"display": "standalone",
-	"start_url": "/",
+	"start_url": "index.html",
 	"short_name": "myIQ",
 	"theme_color": "#ffffff",
 	"description": "",
